@@ -3,7 +3,5 @@ def using_until
   until levitation_force == 0 
     puts  "Wingardim Leviosa"
     levitation_force -=
-  end
-    
 end
 
